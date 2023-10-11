@@ -1,12 +1,13 @@
-# HelloWorldApp -- Door Knocker
+# HelloWorldApp - DoorKnocker
 This is an ASP.NET application deployed with Azure where the user knocks on a door and the knock count is displayed. By "knocking" on the door (clicking the door image), the knock count will increment by one.
 
 ## Running the Application Locally
 
 You’ll need the .NET Software Development Kit(SDK). Download the installer for your operating system and follow the installation instructions on the [.NET Core Downloads page](https://dotnet.microsoft.com/download/dotnet/).  
 
+**Verify Installation by running `dotnet --version`**
 
-**Verify Installation** `dotnet --version`  To run the HelloWorldApp locally, follow these steps:
+To run the HelloWorldApp locally, follow these steps:
 
 1. **Navigate to the project directory where the `.csproj` file is located.**
 
