@@ -1,4 +1,4 @@
-# HelloWorldApp
+# HelloWorldApp - Door Knocker
 This is an ASP.NET application deployed with Azure where the user knocks on a door and the knock count is displayed. By "knocking" on the door (clicking the door image), the knock count will increment by one.
 
 ## Running the Application Locally
