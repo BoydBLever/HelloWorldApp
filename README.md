@@ -11,10 +11,10 @@ You’ll need the .NET Software Development Kit(SDK). Download the installer for
 1. **Navigate to the project directory:**
    Open a terminal and navigate to the directory where the `.csproj` file is located.
 
-2. **Run the project**  
+2. **Run the project from the terminal:**  
  ```dotnet run```
 
-After running `dotnet run` the web browser will automatically open `https://localhost:5001`. Click on the door image to "knock" and see the knock count increment with each click.
+After running `dotnet run` the web browser automatically opens `https://localhost:5001`. Click on the door image to "knock" and see the knock count increment with each click.
 
 # Screenshot
 ![HelloWorldApp DoorKnocker Screenshot](./screenshots/HelloWorldApp_DoorKnocker.png)  
