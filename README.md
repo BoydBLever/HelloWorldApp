@@ -3,7 +3,7 @@ This is an ASP.NET application deployed with Azure where the user knocks on a do
 
 ## Running the Application Locally
 
-You’ll need the .NET Software Development Kit(SDK). Download the installer for your operating system and follow the installation instructions on the [.NET Core Downloads page](https://dotnet.microsoft.com/download/dotnet/).  
+You’ll need the .NET Software Development Kit (SDK). Download the installer for your operating system and follow the installation instructions on the [.NET Core Downloads page](https://dotnet.microsoft.com/download/dotnet/).  
 
 To run the HelloWorldApp locally, follow these steps:
 
