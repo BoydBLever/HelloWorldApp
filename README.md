@@ -8,11 +8,9 @@ You’ll need the .NET Software Development Kit(SDK). Download the installer for
 
 **Verify Installation** `dotnet - -version`  To run the HelloWorldApp locally, follow these steps:
 
-1. **Navigate to the project directory:**
-   Open a terminal and navigate to the directory where the `.csproj` file is located.
+1. **Navigate to the project directory where the `.csproj` file is located.**
 
-2. **Run the project from the terminal:**  
- ```dotnet run```
+2. **Type and enter `dotnet run` in the project's terminal.**  
 
 After running `dotnet run` the web browser automatically opens `https://localhost:5001`. Click on the door image to "knock" and see the knock count increment with each click.
 
